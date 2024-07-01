@@ -1,6 +1,6 @@
-PWD c:\Users\shinj\OneDrive\Desktop\Toplogy and matematical analysis\tex file
+PWD c:\Users\shinj\OneDrive\Desktop\Toplogy and matematical analysis\topo_tex
 INPUT C:\Users\shinj\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\shinj\OneDrive\Desktop\Toplogy and matematical analysis\tex file\topology.tex
+INPUT c:\Users\shinj\OneDrive\Desktop\Toplogy and matematical analysis\topo_tex\topology.tex
 OUTPUT topology.log
 INPUT C:\Users\shinj\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\shinj\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
